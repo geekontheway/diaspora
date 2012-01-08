@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111217042006) do
+ActiveRecord::Schema.define(:version => 20120107220942) do
 
   create_table "account_deletions", :force => true do |t|
     t.string  "diaspora_handle"
@@ -464,6 +464,7 @@ ActiveRecord::Schema.define(:version => 20111217042006) do
     t.boolean  "show_community_spotlight_in_stream",                :default => true,  :null => false
     t.boolean  "auto_follow_back",                                  :default => false
     t.integer  "auto_follow_back_aspect_id"
+    t.text     "hidden_shareables"
   end
 
   add_index "users", ["authentication_token"], :name => "index_users_on_authentication_token", :unique => true
