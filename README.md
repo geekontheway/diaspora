@@ -1,3 +1,7 @@
+>要说每个人都厌恶Facebook不很真实。但是有成百万（于使用那一网站的数亿人中）的人对Facebook傲慢地涉足用户隐私和组建人 Zuckerberg同等不明确的探入我们隐私的未来表示出了忿意。甚至有组织投入进来鼓励用户离开Facebook（一些就在Facebook本身上， 很讽刺）。
+
+一些人所期待的Facebook的替代物，是一款从一开始就有着强隐私控制的新式分布式社交网络,它叫Diaspora.
+
 # Diaspora
 
 The privacy aware, personally controlled, do-it-all, open source social
